@@ -49,7 +49,12 @@ def studentianx(val studenti:Array[String], val an1:Int, val allstudents:Array[S
 
 def main(args: Array[String]) {
 		val materii = Array("PMP", ".NET", "IMR","ISSA","3D")
-        
+        val student1=new Student("Maria","Pana","(PMP,10),(IMR,2)")
+        val student2=new Student("Ana","Rotaru","(PMP,10)")
+        val student3=new Student("Alex","Tarcu","(PMP,5),(.NET,7),(IMR,10)")
+        student1.set_an=3
+        student1.set_an=2
+        student1.set_an=3
 	}
 
 }
