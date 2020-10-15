@@ -6,3 +6,9 @@ runMain Test
 runMain Lab5.Ex1
 exit
 runMain Lab3.Ex1
+runMain Lab3.HelloWorldTest
+runMain Ex3.HelloWordTest
+runMain Lab3.HelloWorldTest
+runMain Lab3.Burglary
+runMain Lab.Covid
+runMain Lab3.Covid
