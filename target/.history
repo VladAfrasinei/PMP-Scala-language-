@@ -12,3 +12,6 @@ runMain Lab3.HelloWorldTest
 runMain Lab3.Burglary
 runMain Lab.Covid
 runMain Lab3.Covid
+runMain Lab4.HelloWorld
+runMain Lab4.Ex4
+runMain Lab2.ex1

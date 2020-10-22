@@ -1,0 +1,10 @@
+1) Pentru exercitiul 1 partea a 3 a, ma asteptam ca ambele sa aiba valoarea true deoarece lui z ii trebuim valorea lui x, nu tot un random
+deci clar ambele vor fi egale si w va fi 1
+
+2) Pentru suma 11, se pot folosi maxim 11 zaruri, avand in vedere ca un zar poate avea minim valoarea 1. Daca ar fi folosite 12+ zaruri,
+atunci sansa de a obtine suma 11 este 0. Deci pentru un numar n se pot folosi maxim n zaruri pentru a avea o sansa de nimerire mai are
+decat 0.
+
+3) A trebuit sa adaug cat mai mult conditii si sa vad cum ruleaza
+
+5) Chain face probabilistica pentru un eveniment care se va  intampla pe viitor
