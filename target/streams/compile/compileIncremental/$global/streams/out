@@ -2,22 +2,22 @@
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	modified: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 4 Scala sources to D:\githubdesktop\PMP\PMP\target\scala-2.12\classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to D:\githubdesktop\PMP\PMP\target\scala-2.12\classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 256a35a6, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 5e4fb87e, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-feature[0m
 [0m[[0mdebug[0m] [0m	-language:existentials[0m
@@ -39,12 +39,18 @@
 [0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala:60: ':' expected but '}' found.[0m
 [0m[[31merror[0m] [0m}[0m
 [0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala:20: ':' expected but ',' found.[0m
+[0m[[31merror[0m] [0m	class ResearchAndDevelopment(val angajati,val bugetTotal) extends Department(val angajati,val bugetTotal)[0m
+[0m[[31merror[0m] [0m	                                         ^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala:80: identifier expected but '}' found.[0m
+[0m[[31merror[0m] [0m}[0m
+[0m[[31merror[0m] [0m^[0m
 [0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Test.scala:19: illegal start of simple pattern[0m
 [0m[[31merror[0m] [0m		val final = RichCPD(treaz, autobuz,[0m
 [0m[[31merror[0m] [0m		    ^[0m
 [0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Test.scala:41: '=' expected but '}' found.[0m
 [0m[[31merror[0m] [0m	}[0m
 [0m[[31merror[0m] [0m	^[0m
-[0m[[31merror[0m] [0m6 errors found[0m
+[0m[[31merror[0m] [0m8 errors found[0m
 [0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
 [0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
