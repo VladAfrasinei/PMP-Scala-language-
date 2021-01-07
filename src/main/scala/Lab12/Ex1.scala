@@ -3,6 +3,13 @@ package Lab12
 import com.cra.figaro.language._
 import com.cra.figaro.algorithm.sampling._
 
+
+object MyChartApp extends App with scalax.chart.module.Charting {
+  val data = for (i <- 1 to 5) yield (i,i)
+  val chart = XYLineChart(data)
+  chart.saveAsPNG("/tmp/chart.png")
+}
+
 object Ex1 {
 	def main(args: Array[String]) {
 		val x0 = Apply(Normal(0.75, 0.3), (d: Double) => d.max(0).min(1))
@@ -18,6 +25,9 @@ object Ex1 {
  				imp.start()
  				val impAnswer = imp.probability(y, true)
  				val diff = veAnswer - impAnswer
+				//La celelalte exercitii ar fi asemanator asa ca din lipsa de timp am pus doar aici
+				val data =  yield (impAnswer,diff)
+				val chart = XYLineChart(data)
  				totalSquaredError += diff × diff
  				}
  		val rmse = math.sqrt(totalSquaredError / 100)
