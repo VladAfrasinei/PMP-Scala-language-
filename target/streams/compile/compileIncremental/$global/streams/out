@@ -1,24 +1,24 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set(D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Partial1\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex5.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex3.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex2.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Partial1\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex5.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex3.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex2.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] 	modified: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab13\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab11\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab9\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab10\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Partial1\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab13\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex5.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab11\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex3.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex2.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab9\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab10\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Partial1\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab13\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex5.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab11\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex3.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex2.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab9\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab10\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Partial1\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab13\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex5.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab11\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex3.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex2.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab9\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab10\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Partial1\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab13\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex5.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab11\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex3.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex2.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab9\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab10\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Recompiling all 24 sources: invalidated sources (15) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 24 Scala sources to D:\githubdesktop\PMP\PMP\target\scala-2.12\classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Partial1\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab13\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex5.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab11\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex3.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex2.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab9\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab10\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(D:\githubdesktop\PMP\PMP\src\main\scala\Partial1\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab2\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab13\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab4\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex5.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab11\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex4.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab7\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex3.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Test.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab12\Ex2.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab9\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab10\Ex1.scala, D:\githubdesktop\PMP\PMP\src\main\scala\Lab8\Ex1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 25 sources: invalidated sources (16) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 25 Scala sources to D:\githubdesktop\PMP\PMP\target\scala-2.12\classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 65026840, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 73351d72, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-feature[0m
 [0m[[0mdebug[0m] [0m	-language:existentials[0m
@@ -100,6 +100,39 @@
 [0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Partial1\Test.scala:41: '=' expected but '}' found.[0m
 [0m[[31merror[0m] [0m	}[0m
 [0m[[31merror[0m] [0m	^[0m
-[0m[[31merror[0m] [0m24 errors found[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:19: ';' expected but ',' found.[0m
+[0m[[31merror[0m] [0m		val vreme=CPD(vr.tip),[0m
+[0m[[31merror[0m] [0m		                     ^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:48: identifier expected but integer literal found.[0m
+[0m[[31merror[0m] [0m		weather[4].vreme.setCondition((s: String) => s = Innorat)[0m
+[0m[[31merror[0m] [0m		        ^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:49: ']' expected but ';' found.[0m
+[0m[[31merror[0m] [0m		weather[5].vreme.setCondition((s: String) => s = Innorat)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:49: identifier expected but integer literal found.[0m
+[0m[[31merror[0m] [0m		weather[5].vreme.setCondition((s: String) => s = Innorat)[0m
+[0m[[31merror[0m] [0m		        ^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:51: ']' expected but ';' found.[0m
+[0m[[31merror[0m] [0m		println(VariableElimination.probability(weather(6).umbrela, 'IaUmrbela))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:53: identifier expected but integer literal found.[0m
+[0m[[31merror[0m] [0m		weather[4].vreme.removeConditions()[0m
+[0m[[31merror[0m] [0m		        ^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:54: ']' expected but ';' found.[0m
+[0m[[31merror[0m] [0m		weather[5].vreme.removeConditions()[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:54: identifier expected but integer literal found.[0m
+[0m[[31merror[0m] [0m		weather[5].vreme.removeConditions()[0m
+[0m[[31merror[0m] [0m		        ^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:56: ']' expected but ';' found.[0m
+[0m[[31merror[0m] [0m		weather[5].umbrela.setCondition((s: String) => s = NuIaUmbrela)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:56: identifier expected but integer literal found.[0m
+[0m[[31merror[0m] [0m		weather[5].umbrela.setCondition((s: String) => s = NuIaUmbrela)[0m
+[0m[[31merror[0m] [0m		        ^[0m
+[0m[[31merror[0m] [0mD:\githubdesktop\PMP\PMP\src\main\scala\Sesiune\Test.scala:58: ']' expected but ';' found.[0m
+[0m[[31merror[0m] [0m		println(VariableElimination.probability(weather(2).vreme, 'Ploios))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m35 errors found[0m
 [0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
 [0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
